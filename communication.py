@@ -1,3 +1,5 @@
+# This code was orignially implemented on https://code.activestate.com/recipes/531824-chat-server-client-using-selectselect/history/3/
+
 import cPickle
 import socket
 import struct
